@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "7b7d",
+      "name": "Vayu",
+      "email": "cs23Vayu@rbmi.in",
+      "password": "Vayu@7897"
+    },
+    {
+      "id": "6efd",
+      "name": "anjali tiwari",
+      "email": "tiwarianjali8865@gmail.com",
+      "password": "Anjali@7897"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1eaa",
+      "title": "Bersek",
+      "author": "Vayu",
+      "content": "This is the story about a fictional character who was a warrior and he won everything still there were something he never got that was ................"
+    },
+    {
+      "id": "5c71",
+      "title": "Devi",
+      "author": "Anjali",
+      "content": "my name is devi "
+    },
+    {
+      "id": "eefc",
+      "title": "chota bheem",
+      "author": "chutki",
+      "content": "chota bheem chota bheem chota bheem bheem bheem ....."
+    },
+    {
+      "id": "164f",
+      "title": "From Mockery to Glory",
+      "author": "Ayush singh",
+      "content": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThere was a boy named Akshay. He had a dark complexion, and because of this, many people made fun of him. Among them was a girl named Dakshita, who often laughed at him with others.\n\nAkshay felt hurt, but instead of breaking down, he chose to change himself. He started working hard in the gym, controlled his diet, and focused on his studies too. Days turned into months, and months into years. Slowly, his body transformed, and his confidence grew stronger than ever.\n\nOne day, Akshay returned to his old town. People could not believe their eyes—he was no longer the boy they once mocked, but a strong, confident, and handsome young man.\n\nThe same girl, Dakshita, who once laughed at him, now found herself attracted to him. She admired his determination and strength. She approached him and said, “I never realized how amazing you are. I was wrong about you.”\n\nAkshay smiled and replied, “I didn’t change to impress anyone. I changed for myself. But if you truly see me now, not just my face, then maybe we can write a new story together.”\n\nAnd that day, Dakshita realized beauty was not just about skin—it was about courage, determination, and heart.\n\n\n\n\n\n\n\n\n\n"
+    }
+  ]
+}
