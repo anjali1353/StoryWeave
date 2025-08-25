@@ -201,4 +201,4 @@ function AddStory() {
   );
 }
 
-export default AddStory
+export default AddStory;
