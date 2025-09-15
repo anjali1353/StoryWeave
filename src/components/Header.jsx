@@ -16,7 +16,7 @@ function Header() {
       top: 0,
       zIndex: 1000,
     },
-    logo: {
+    logo: { 
       fontSize: "1.8rem",
       fontWeight: "bold",
       letterSpacing: "1px",
